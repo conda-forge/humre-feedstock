@@ -1,5 +1,5 @@
 {% set name = "humre" %}
-{% set version = "0.1.1" %}
+{% set version = "0.1.2" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/Humre-{{ version }}.tar.gz
-  sha256: 92ac10a485da42e99805d490e820244a3c305d93b1f1da51224254af1cdcbf91
+  sha256: 13808c81d0c0801e8018b51936cad3c65ad9613e9b7098542ad57d725aa5535e
 
 build:
   noarch: python
