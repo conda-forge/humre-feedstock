@@ -34,7 +34,7 @@ about:
   summary: A human-readable regular expression module for Python. Humre handles regex syntax for you and creates regex strings to pass to Python's re.compile(). Pronounced "hum, ree".
   license: MIT
   license_file:
-    - LICENSE.txt
+    - LICENSE
 
 extra:
   recipe-maintainers:
