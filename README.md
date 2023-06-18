@@ -1,11 +1,11 @@
-About humre
-===========
+About humre-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/humre-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/asweigart/humre
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/humre-feedstock/blob/main/LICENSE.txt)
 
 Summary: A human-readable regular expression module for Python. Humre handles regex syntax for you and creates regex strings to pass to Python's re.compile(). Pronounced "hum, ree".
 
